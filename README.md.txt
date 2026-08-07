@@ -29,6 +29,7 @@ kubernetes-Practice/
 - Persistent Volume Claim (PVC)
 - Volumes
 - StatefulSet
+-Difference Between Deployments and StatefulSet
 
 ## 📄 Files Included
 

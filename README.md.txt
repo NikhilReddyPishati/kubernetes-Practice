@@ -87,9 +87,9 @@ kubectl apply -f StatefulSets/statefulset.yaml
 Through this repository, I learned:
 
 - Creating Pods and Deployments
-- Exposing applications using Services
+- Exposing Applications using Services
 - Managing ConfigMaps and Secrets
-- Working with Persistent Volumes and PVCs
+- Working with Persistent Volumes and Persistent Volume Claims
 - Deploying Stateful Applications using StatefulSets
 
 ---

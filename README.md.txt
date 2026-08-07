@@ -92,6 +92,7 @@ Through this repository, I learned:
 - Managing ConfigMaps and Secrets
 - Working with Persistent Volumes and Persistent Volume Claims
 - Deploying Stateful Applications using StatefulSets
+-Deploying Headless Service Which is used in StatefulSet
 
 ---
 

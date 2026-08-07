@@ -1,9 +1,9 @@
 # Kubernetes Practice
 
-## 📖 About
+### 📖 About
 This repository contains my Kubernetes practice files created while learning Kubernetes from basic to intermediate concepts.
 
-## 📂 Repository Structure
+### 📂 Repository Structure
 
 ```
 kubernetes-Practice/
@@ -17,7 +17,7 @@ kubernetes-Practice/
 └── README.md
 ```
 
-## 🚀 Kubernetes Concepts Covered
+### 🚀 Kubernetes Concepts Covered
 
 - Pod
 - Deployment

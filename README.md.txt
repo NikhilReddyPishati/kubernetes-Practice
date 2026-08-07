@@ -76,7 +76,7 @@ kubectl apply -f StatefulSets/statefulset.yaml
 ## 🛠️ Tools Used
 
 - Kubernetes
-- Minikube
+- Minikube -- in local
 - kubectl
 - Docker
 - Git
